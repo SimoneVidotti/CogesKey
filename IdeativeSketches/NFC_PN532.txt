@@ -1,0 +1,13 @@
+PN532
+
+It supports 6 operating modes:
+
+    ISO/IEC 14443A/MIFARE Reader/Writer.
+    ISO/IEC 14443A/MIFARE Card MIFARE Classic 1K and MIFARE Classic 4K Card.
+    ISO/IEC 14443B Reader/Writer.
+    FeliCa Reader/Writer.
+    FeliCa Card emulation.
+    ISO/IEC 18092, ECMA 340 Peer-to-Peer uno di questi fa parte delle chiavette mykey coges
+
+The MyKey Coges keys support RFID technology, specifically based on the ISO/IEC 14443A standard for compatibility with MIFARE systems. 
+Therefore, the operational modes related to ISO/IEC 14443A/MIFARE Reader/Writer and MIFARE Classic 1K and 4K are relevant.
